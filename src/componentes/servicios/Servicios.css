@@ -1,0 +1,5 @@
+.cardImage {
+    height: 200px; /* Ajusta la altura según necesites */
+    width: 100%;   /* Ancho al 100% del contenedor */
+    object-fit: cover; /* Mantiene la proporción de la imagen */
+  }
